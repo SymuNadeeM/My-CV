@@ -1,5 +1,17 @@
-#portfolio {
+/* #portfolio {
   margin-top: 15rem;
+} */
+#portfolio {
+  margin-top: 5rem;
+}
+#portfolio h2,
+h5 {
+  text-align: center;
+  color: var(--color-light);
+}
+#portfolio > h2 {
+  color: var(--color-primary);
+  margin-bottom: 3rem;
 }
 .protfolio_container {
   display: grid;

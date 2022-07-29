@@ -1,3 +1,16 @@
+#contact {
+  margin-top: -5rem;
+}
+#contact h2,
+h5 {
+  text-align: center;
+  color: var(--color-light);
+}
+#contact > h2 {
+  color: var(--color-primary);
+  margin-bottom: 3rem;
+}
+
 .contact_container {
   width: 58%;
   display: grid;

@@ -1,6 +1,13 @@
-/* #services {
-  margin-bottom: 10rem;
-} */
+#services h2,
+h5 {
+  text-align: center;
+  color: var(--color-light);
+}
+#services > h2 {
+  color: var(--color-primary);
+  margin-bottom: 3rem;
+}
+
 .services_container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

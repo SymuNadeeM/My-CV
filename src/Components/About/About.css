@@ -51,6 +51,9 @@
 .about_card h5 {
   font-size: 0.95rem;
 }
+.talk_button {
+  margin-top: -20px;
+}
 .about_card small {
   font-size: 0.7rem;
   color: var(--color-light);
@@ -58,6 +61,30 @@
 .about_content p {
   margin: 2rem 0 2.6rem;
   color: var(--color-light);
+}
+.hoives {
+  margin-top: 15px;
+}
+.category {
+  display: flex;
+  justify-content: space-between;
+}
+.part {
+  display: flex !important;
+  margin-top: 5px;
+}
+.Interest {
+  margin: 7px 0px;
+  color: #4db5ff;
+}
+.part h6 {
+  color: #e0deca;
+}
+.icon_tag {
+  font-size: 25px;
+
+  color: #4db5ff;
+  margin-right: 7px;
 }
 
 /* :::: Media Queries (medium devices) :::: */
